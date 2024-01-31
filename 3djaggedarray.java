@@ -1,3 +1,6 @@
+/* Create an array to store the ages of students from two schools? School 1 consists of three classrooms: Classroom 1 has 2 students, while Classrooms 2 and 3 
+each have 3 students. Meanwhile, School 2 comprises two classrooms: Classroom 1 has 2 students, and Classroom 2 has 3 students. */
+
 package java1;
 
 import java.util.*;
