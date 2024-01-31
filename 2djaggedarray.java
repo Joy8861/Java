@@ -1,3 +1,5 @@
+/* create an array to store the ages of students belongig to 2 classrooms where first classroom has three students and second classroom has 5 students */
+
 import java.util.*;
 public class jay1 {
 
